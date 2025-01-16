@@ -1,2 +1,2 @@
 # Como-organizar-sua-vida-Financeira-com-Planilhas-Inteligentes-e-IA
-Este projeto visa capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial para monitorar gastos, categorizar despesas e estabelecer metas de economia.
+Este projeto visa capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial para monitorar gastos, categorizar despesas e estabelecer metas de economia. As planilhas oferecem uma visão prática e personalizada, ajudando cada pessoa a tomar decisões financeiras mais informadas e eficientes.
